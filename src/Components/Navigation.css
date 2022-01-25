@@ -1,0 +1,17 @@
+.navBar ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    border-bottom: 1px solid black;
+}
+
+.navBar a {
+    padding: 0px 50px 10px 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.navBar a:hover {
+    color: darkslategray;
+    text-decoration: underline;
+}
